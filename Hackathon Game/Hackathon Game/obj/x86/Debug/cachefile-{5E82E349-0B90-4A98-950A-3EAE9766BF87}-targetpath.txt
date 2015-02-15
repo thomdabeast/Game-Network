@@ -1,0 +1,6 @@
+Content\splash_screen.xnb
+Content\cursor.xnb
+Content\create_username.xnb
+Content\LCD.xnb
+Content\LCD 14.xnb
+Content\Amoveo_Menu.xnb

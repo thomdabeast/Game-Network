@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>splash_screen.png</Source>
+      <Name>splash_screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomh_000\Documents\Visual Studio 2013\Projects\Hackathon Game\Hackathon Game\bin\x86\Debug\Content\splash_screen.xnb</Output>
+      <Time>2015-02-07T11:43:54.0001535-08:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor.png</Source>
+      <Name>cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomh_000\Documents\Visual Studio 2013\Projects\Hackathon Game\Hackathon Game\bin\x86\Debug\Content\cursor.xnb</Output>
+      <Time>2015-02-07T14:35:06.2375892-08:00</Time>
+    </Item>
+    <Item>
+      <Source>create_username.png</Source>
+      <Name>create_username</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomh_000\Documents\Visual Studio 2013\Projects\Hackathon Game\Hackathon Game\bin\x86\Debug\Content\create_username.xnb</Output>
+      <Time>2015-02-07T18:45:32.1124133-08:00</Time>
+    </Item>
+    <Item>
+      <Source>LCD.spritefont</Source>
+      <Name>LCD</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomh_000\Documents\Visual Studio 2013\Projects\Hackathon Game\Hackathon Game\bin\x86\Debug\Content\LCD.xnb</Output>
+      <Time>2015-02-07T14:26:58.5858269-08:00</Time>
+    </Item>
+    <Item>
+      <Source>LCD 14.spritefont</Source>
+      <Name>LCD 14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomh_000\Documents\Visual Studio 2013\Projects\Hackathon Game\Hackathon Game\bin\x86\Debug\Content\LCD 14.xnb</Output>
+      <Time>2015-02-07T15:14:56.8995893-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Amoveo_Menu.wav</Source>
+      <Name>Amoveo_Menu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\thomh_000\Documents\Visual Studio 2013\Projects\Hackathon Game\Hackathon Game\bin\x86\Debug\Content\Amoveo_Menu.xnb</Output>
+      <Time>2015-02-08T07:33:44.5448716-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5E82E349-0B90-4A98-950A-3EAE9766BF87}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\thomh_000\Documents\Visual Studio 2013\Projects\Hackathon Game\Hackathon GameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\thomh_000\Documents\Visual Studio 2013\Projects\Hackathon Game\Hackathon Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\thomh_000\Documents\Visual Studio 2013\Projects\Hackathon Game\Hackathon Game\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\thomh_000\Documents\Visual Studio 2013\Projects\Hackathon Game\Hackathon Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-01-31T02:48:05.6126846-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
