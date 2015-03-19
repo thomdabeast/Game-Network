@@ -549,7 +549,6 @@ namespace Hackathon_Game
                 buffer = new byte[1024];
 
                 PacketHandler();
-                Thread.Sleep(100);
                 Network.Socket.BeginReceiveFrom(buffer, 0, buffer.Length, SocketFlags.None, ref Network.ePoint, new AsyncCallback(ReceiveData), null);
                 
             }
